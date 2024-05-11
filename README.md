@@ -1,1 +1,1 @@
-﻿# Proyrcto modulo 2 del bootcamp de Alura Latam
+﻿# Proyecto modulo 2 del bootcamp de Alura Latam
